@@ -1,0 +1,166 @@
+article h1, h2, h3, p, ul, ol, blockquote { width: 700px; margin: 0 auto;
+}
+article h1, h2, h3 { font-family: 'PT Sans Caption', sans-serif; font-weight: bold;
+}
+h1 { margin-top: 67px; font-size: 38px; line-height: 45px;
+}
+article h1 + p { margin-top: 8px; font-family: 'PT Sans Caption', sans-serif; font-size: 22px; line-height: 32px; color: rgba(0,0,0,.4);
+}
+article h1 + p + p { margin-top: 30px;
+}
+h2 { margin-top: 43px; font-size: 32px; line-height: 36px; color: rgba(0, 0, 0, .8);
+}
+article h2 + p,
+article h2 + blockquote { margin-top: 7px;
+}
+h3 { margin-top: 36px; font-size: 28px; line-height: 34px; color: rgba(0, 0, 0, .8);
+}
+article h3 + p,
+article h3 + blockquote { margin-top: 6px;
+}
+article p, blockquote, li { margin-top: 29px; font-size: 20px; line-height: 34px;
+}
+blockquote { font-style: italic;
+}
+img { display: block; width: 1020px; margin: 79px auto 0;
+}
+article img + h2 { margin-top: 79px;
+}
+article img + p,
+article img + blockquote,
+article img + ul { margin-top: 77px;
+}
+article h2 + img { margin-top: 82px;
+}
+article h3 + img { margin-top: 81px;
+}
+body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: 'PT Sans', sans-serif;
+}
+a { color: inherit;
+}
+article h1, h2, h3, p, ul, blockquote { width: 700px; margin: 0 auto;
+}
+article h1, h2, h3 { font-family: 'PT Sans Caption', sans-serif; font-weight: bold;
+}
+h1 { margin-top: 67px; font-size: 38px; line-height: 45px;
+}
+article h1 + p { margin-top: 8px; font-family: 'PT Sans Caption', sans-serif; font-size: 22px; line-height: 32px; color: rgba(0,0,0,.4);
+}
+article h1 + p + p { margin-top: 30px;
+}
+h2 { margin-top: 43px; font-size: 32px; line-height: 36px; color: rgba(0, 0, 0, .8);
+}
+article h2 + p,
+article h2 + blockquote { margin-top: 7px;
+}
+h3 { margin-top: 36px; font-size: 28px; line-height: 34px; color: rgba(0, 0, 0, .8);
+}
+article h3 + p,
+article h3 + blockquote { margin-top: 6px;
+}
+p, blockquote, li { margin-top: 29px; font-size: 20px; line-height: 34px;
+}
+blockquote { font-style: italic; position: relative;
+}
+blockquote::before{
+content: "";
+width: 3px;
+height: 100%;
+position: absolute;
+top: 0;
+background: black;
+left: -17px;
+
+}
+img { display: block; width: 1020px; margin: 79px auto 0;
+}
+article img + h2 { margin-top: 79px;
+}
+article img + p,
+article img + blockquote,
+article img + ul { margin-top: 77px;
+}
+article h2 + img { margin-top: 82px;
+}
+article h3 + img { margin-top: 81px;
+}
+  ol {
+    list-style-type: decimal;
+    display: block;
+    margin-top: 16px
+    padding-left: 40px;
+    }
+
+    ul {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 16px;
+    }
+
+
+    </style>
+</head>
+<body>
+содержание
+<nav>
+<p>
+<ol>
+  <li>Идеология «опытного коммунального дома переходного типа»</li>
+  <li>Участок</li>
+  <li>Состав жилого комплекса</li>
+  <li>Архитектура
+      <ol>
+        <li>1 Пространственная организация комплекса</li>
+        <li>2 Дом Наркомфина и 5 принципов Ле Корбюзье</li>
+            <ol>
+              <li>2.1	Парк и открытый первый этаж</li>
+              <li>2.2	Внутренняя структура</li>
+              <li>2.3	Типы ячеек-квартир и их распределение</li>
+              <li>2.4	Архитектура коммунального корпуса</li>
+              <li>2.5	Фасады</li>
+            </ol>
+          <ol>
+            .3	Конструкции и материалы
+            <li>3.1  Железобетонный каркас</li>
+            <li>3.2  Блоки Прохорова</li>
+            <li>3.3  Инженерные коммуникации</li>
+            <li>3.4  Внешние стены</li>
+            <li>3.5  Другие экспериментальные материалы</li>
+            <li>3.6  Цветочницы</li>
+          </ol>
+          <ol>
+            <li>  Интерьеры</li>
+            <li>4.1  Освещение</li>
+            <li>4.2  Сдвижные окна</li>
+            <li>4.3  Цвет</li>
+          </ol>
+      </ol>
+      <li>Критика проекта
+        <ol>
+          <li>1	С технической стороны</li>
+          <li>.2	С бытовой стороны</li>
+        </ol>
+      <li>История эксплуатации и проект реставрации
+        <ol>
+          <li>.1  Развитие городского окружения</li>
+          <li>.2	Перестройки</li>
+          <li>.3	Причины ветхости дома</li>
+          <li>.4	Новейшая история дома и реставрация</li>
+        </ol>
+      </li>
+      <li>Значение проекта в исторической перспективе</li>
+      <li>Реальная жизнь в доме Наркомфина</li>
+      <li>Известные жители</li>
+      <li>См. также</li>
+      <li>Примечания</li>
+      <li>Сноски</li>
+      <li>Источники</li>
+      <li>Литература</li>
+      <li>Ссылки</li>
+      </li>
+  </li>
+
+
+</ol>
+</p>
+</nav>
