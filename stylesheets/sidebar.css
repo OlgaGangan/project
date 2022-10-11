@@ -1,13 +1,13 @@
 nav {
-  width: 300px;
+  width: 200px;
   display: block;
   position: fixed;
-  top: 20px;
+  top:70px;
   left: 20px;
   overflow: hidden;
   opacity: 0.2;
   transition: all .8s ease-out;
-
+  margin-top: 40px;
 }
 nav:hover {
   opacity: 1;
